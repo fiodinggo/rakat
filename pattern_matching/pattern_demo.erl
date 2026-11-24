@@ -1,4 +1,3 @@
-
 -module(pattern_demo).
 -export([describe_shape/1, sum_list/1, classify_age/1, run/0]).
 
